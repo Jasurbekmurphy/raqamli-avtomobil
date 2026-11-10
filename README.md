@@ -6,6 +6,8 @@
 
 **AR / VR:** https://jasurbekmurphy.github.io/raqamli-avtomobil/#/xr/dvigatel
 
-QR kodlar: `qr-dvigatel.svg` (4 silindrli dvigatel), `qr-v8.svg` (V8 dvigatel).
+Toʻliq dvigatel (240 qism): https://jasurbekmurphy.github.io/raqamli-avtomobil/#/dvigatel
+
+QR kodlar: `qr-toliq.svg` (toʻliq dvigatel), `qr-dvigatel.svg` (4 silindrli dvigatel), `qr-v8.svg` (V8 dvigatel).
 
 V8 modeli: «V8 Hot Rod Engine», muallif ShotaB (Sketchfab), CC BY 4.0.
